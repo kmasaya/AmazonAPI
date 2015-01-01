@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+AMAZON_ACCESS_KEY = ''
+AMAZON_SECRET_KEY = ''
+AMAZON_ASSOCIATE_TAG = ''
+AMAZON_LOCALE = 'JP'
